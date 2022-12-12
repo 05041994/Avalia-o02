@@ -1,0 +1,20 @@
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\bin\Debug\netcoreapp3.1\Fabricante e Veículo.exe
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\bin\Debug\netcoreapp3.1\Fabricante e Veículo.deps.json
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\bin\Debug\netcoreapp3.1\Fabricante e Veículo.runtimeconfig.json
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\bin\Debug\netcoreapp3.1\Fabricante e Veículo.runtimeconfig.dev.json
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\bin\Debug\netcoreapp3.1\Fabricante e Veículo.dll
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\bin\Debug\netcoreapp3.1\Fabricante e Veículo.pdb
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo.csproj.AssemblyReference.cache
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo_MarkupCompile.cache
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo_MarkupCompile.lref
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo.g.resources
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo.AssemblyInfoInputs.cache
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo.AssemblyInfo.cs
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo.csproj.CoreCompileInputs.cache
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo.dll
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo.pdb
+C:\Users\Gab\source\repos\Lista2Wpf\Fabricante e Veículo\obj\Debug\netcoreapp3.1\Fabricante e Veículo.genruntimeconfig.cache
