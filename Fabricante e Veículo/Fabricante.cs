@@ -35,6 +35,11 @@ namespace Fabricante_e_Veículo
             sigla = s;
         }
 
+        public Fabricante()
+        {
+            //Contrudor
+        }
+
         public void Inserir(Veiculo v)
         {
             if (i == veiculos.Length)
@@ -60,6 +65,7 @@ namespace Fabricante_e_Veículo
                 if (veiculos[k].Getpreço() > aux.Getpreço())
                 {
                     aux = veiculos[k];
+                    //Nao achei um jeito para o valor se retornado por outro caminho
                 }
                 k++;
             }
