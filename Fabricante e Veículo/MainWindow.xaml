@@ -1,4 +1,4 @@
-<Window x:Class="Fabricante_e_Veículo.MainWindow"
+﻿<Window x:Class="Fabricante_e_Veículo.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -43,7 +43,7 @@
 
         <Button Content="Inserir Fabricante" Grid.Row="3" Margin="0,14,0,13" HorizontalAlignment="Center" Width="108"/>
         <Button Content="Maior Valor" Grid.Row="4" Grid.Column="1" Margin="0,56,20,18" HorizontalAlignment="Right"/>
-        <Button Content="Inserir veiculo" Grid.Row="4" Grid.Column="1" Margin="0,10,14,64" HorizontalAlignment="Right"/>
+        <Button Content="Inserir veiculo" Grid.Row="4" Grid.Column="1" Margin="0,10,14,64" HorizontalAlignment="Right" Click="Inserircarro_Click"/>
 
         <!---->
 

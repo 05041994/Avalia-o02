@@ -24,5 +24,14 @@ namespace Fabricante_e_Veículo
         {
             InitializeComponent();
         }
+
+        private void Inserircarro_Click(object sender, RoutedEventArgs e)
+        {
+            Veiculo v = new Veiculo();
+            v.SetNome(nomeveiculo.Text);
+            v.SetModelo(modeloveiculo.Text);
+            v.SetPreco(double.Parse(precoveiculo.Text));
+
+        }
     }
 }
