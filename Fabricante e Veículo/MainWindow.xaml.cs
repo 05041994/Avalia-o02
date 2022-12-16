@@ -31,7 +31,18 @@ namespace Fabricante_e_Veículo
             v.SetNome(nomeveiculo.Text);
             v.SetModelo(modeloveiculo.Text);
             v.SetPreco(double.Parse(precoveiculo.Text));
+        }
 
+        private void Inserirfabricante_Click(object sender, RoutedEventArgs e)
+        {
+            Fabricante f = new Fabricante();
+            f.SetNomeFabricante(nomefabricante.Text);
+            f.SetSigla(sligafabricante.Text);
+        }
+
+        private void MaiorPreço_Click(object sender, RoutedEventArgs e)
+        {
+           
         }
     }
 }
