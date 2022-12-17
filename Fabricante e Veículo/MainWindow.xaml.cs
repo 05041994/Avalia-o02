@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -42,7 +42,13 @@ namespace Fabricante_e_Veículo
 
         private void MaiorPreço_Click(object sender, RoutedEventArgs e)
         {
-           
+            Fabricante fim = Fabricante();
+            fim.Maiorpreco();
+        }
+
+        private Fabricante Fabricante()
+        {
+            throw new NotImplementedException();
         }
     }
 }
