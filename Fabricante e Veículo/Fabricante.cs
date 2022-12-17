@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -65,10 +65,10 @@ namespace Fabricante_e_Veículo
                 if (veiculos[k].Getpreço() > aux.Getpreço())
                 {
                     aux = veiculos[k];
-                    //Nao achei um jeito para o valor se retornado por outro caminho
                 }
                 k++;
             }
+            return aux.Getpreço();
         }
         public override string ToString()
         {
